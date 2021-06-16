@@ -1,30 +1,28 @@
 
-### Anahita Taheri
+### Mehri Shahvalady
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Mehri
++ last name : Shahvalady
++ I am a student of software engineering
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Java Script, Visual Basic
++ ASP, PHP, XML 
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Bachelor of science : Software Engineering
+_ payam Noor University
 
 ### language
 
@@ -35,18 +33,14 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ programming
++ studing Up-to-date scientific articles 
++ traveling
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
-
++ I am working in IRIB
 
 
 --- 
-### [رزومه فارسی](resume-fa.md)
